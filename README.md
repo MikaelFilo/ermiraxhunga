@@ -1,6 +1,6 @@
 # ermiraxhunga Project
-Architecture presentation site
+Architecture studio site
 
-Professionals albanian architecture, with years of experience.
+Professionals albanian architectures, with years of experience.
 
 Check online at: https://ermiraxhunga.netlify.app/
